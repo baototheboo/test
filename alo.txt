@@ -1,0 +1,89 @@
+_ There are 7 groups of users which out system supports:
+1: Staff
+_Login
+_Logout
+_Check-In
+_Timesheet Management
+	+ View your captured faces
+	+ View your own late attendance day, day-off 
+	+ Send Day-off Request to Higher Role
+	+ Report Complaint to Higher Role
+2: Project Manager
+_Login
+_Logout
+_Check-In
+_Timesheet Management
+	+ View your captured faces
+	+ View your own late attendance day, day off 
+	+ Send Day-off Request Higher Role Members
+	+ Report Complaint Higher Role Members
+_Project Member Management
+	+ Add Staff to your own Project
+	+ Remove Staff from your own Project
+	+ View Member's information in Project
+	+ Update Member's information in Project
+	+ View Member's captured faces
+	+ View Member's late attendance day, day off, update exception
+	+ Accept Member's Day-off request
+3: Group Leader
+_Login
+_Logout
+_Check-In
+_Timesheet Management
+	+ View your captured faces
+	+ View your own late attendance day, day off 
+	+ Send Day-off Request to Higher Role Members
+	+ Report Complaint to Higher Role Members
+_Group Member Management
+	+ Add Staff to your own Group
+	+ Remove Staff from your own Group
+	+ View Member's information in Group
+	+ Update Member's information in Group
+	+ View Member's captured faces
+	+ View Member's late attendance day, day off, update exception
+	+ Accept Member's Day-off request
+4: Human Resources (HR)
+_Login
+_Logout
+_Check-In
+_Timesheet Management
+	+ View your captured faces
+	+ View your own late attendance day, day-off 
+	+ Send Day-off Request Members to Higher Role Members
+_Staff Management
+	+ View Staff's information
+	+ Update Staff's information
+	+ Disable Staff
+	+ View Staff's captured faces
+	+ View Staff's late attendance day, day off, update exception
+	+ Accept Staff's Day-off request
+_Monthly Report
+	+ View Monthly Report
+	+ Import Data
+	+ Export Data 
+
+5: Human Resources Manager
+_Login
+_Logout
+_Check-In
+_Timesheet Management
+	+ View your captured faces
+	+ View your own late attendance day, day-off 
+	+ Update your own late attendance day, day-off 
+_HR Management
+	+ View HR's information
+	+ Update HR's information
+	+ View HR's captured faces
+	+ View HR's late attendance day, day off, update exception
+	+ Accept HR's Day-off request
+_Staff Management
+	+ View Staff's information
+	+ Update Staff's information
+	+ Disable Staff
+	+ View Staff's captured faces
+	+ View Staff's late attendance day, day off, update exception
+	+ Accept Staff's Day-off request
+_Monthly Report
+	+ View Monthly Report
+	+ Import Data
+	+ Export Data 
